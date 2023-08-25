@@ -13,4 +13,5 @@ copy file .env.example dan ubah file name menjadi .env
 edit file .env pada bagian BASE_URL menggunakan url web yang ingin di Test
 run npx cypress open
 run in chrome browser
+hasil automation testing ada di folder cypress/reports/html/index.html
 ```
