@@ -1,0 +1,35 @@
+{
+  "name": "technical-test-quality-assurance-pt-javan",
+  "version": "1.0.0",
+  "description": "Technical Test Automation Quality Assurance PT Javan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bagusprakasa/technical-test-quality-assurance-pt-javan.git"
+  },
+  "keywords": [
+    "Automation",
+    "Cypress",
+    "Website",
+    "QA"
+  ],
+  "author": "bagusprakasa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bagusprakasa/technical-test-quality-assurance-pt-javan/issues"
+  },
+  "homepage": "https://github.com/bagusprakasa/technical-test-quality-assurance-pt-javan#readme",
+  "devDependencies": {
+    "cypress": "^12.17.4"
+  },
+  "dependencies": {
+    "@cypress/browserify-preprocessor": "^3.0.2",
+    "babel-plugin-module-resolver": "^5.0.0",
+    "cypress-mochawesome-reporter": "^3.5.1",
+    "dotenv": "^16.3.1",
+    "prettier": "^3.0.2"
+  }
+}
